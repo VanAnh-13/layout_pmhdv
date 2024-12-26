@@ -1,0 +1,54 @@
+{
+  "carSales": [
+    {
+      "title": "VinFast dẫn đầu 10 ôtô bán nhiều nhất tháng 10",
+      "description": "Hai mẫu xe điện của VinFast chiếm đỉnh bảng xếp hạng với doanh số, bỏ xa các mẫu xe động cơ đốt trong như Mitsubishi Xpander hay Mazda CX-5.",
+      "cars": [
+        {
+          "name": "VinFast VF 8",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2023-vinfast-vf8-101-1670278405.jpg"
+        },
+        {
+          "name": "VinFast VF e34",
+          "imageUrl": "https://img.vinfastauto.com/images/originals/2021/11/17/1-1637136791.jpg"
+        },
+        {
+          "name": "VinFast Lux A2.0",
+          "imageUrl": "https://img.vinfastauto.com/images/originals/2021/11/17/2-1637136791.jpg"
+        },
+        {
+          "name": "VinFast Lux SA2.0",
+          "imageUrl": "https://img.vinfastauto.com/images/originals/2021/11/17/3-1637136791.jpg"
+        }
+      ]
+    },
+    {
+      "title": "5 sedan bán nhiều Quý III",
+      "description": "Toyota Vios giao nhiều nhất với 4.597 xe, nhiều hơn 1.385 xe so với Hyundai Accent ở vị trí thứ hai, Honda City giữ hạng ba.",
+      "cars": [
+        {
+          "name": "Toyota Vios",
+          "imageUrl": "https://toyotavn.com.vn/wp-content/uploads/2021/08/toyota-vios-2021.jpg"
+        },
+        {
+          "name": "Hyundai Accent",
+          "imageUrl": "https://hyundai.com.vn/wp-content/uploads/2021/12/hyundai-accent-2021.jpg"
+        },
+        {
+          "name": "Honda City",
+          "imageUrl": "https://honda.com.vn/wp-content/uploads/2021/12/honda-city-2021.jpg"
+        }
+      ]
+    },
+    {
+      "title": "5 mẫu sedan bán nhiều nhất tháng 9",
+      "description": "Toyota Vios giữ vị trí đầu bảng xếp hạng doanh số với 1.842 xe, nhiều hơn 252 xe so với đối thủ City ở hạng hai với 1.590 xe.",
+      "cars": [
+        {
+          "name": "Toyota Vios",
+          "imageUrl": "https://toyotavn.com.vn/wp-content/uploads/2021/08/toyota-vios-2021.jpg"
+        }
+      ]
+    }
+  ]
+}
